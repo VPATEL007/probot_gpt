@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "718694861203",
+    "project_id": "qoraa-f50e1",
+    "storage_bucket": "qoraa-f50e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718694861203:android:108bc4a858390750dd0066",
+        "android_client_info": {
+          "package_name": "com.webiots.probotgpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718694861203-2emh4h9nfhnto4afvh390qnrvrem5c4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAztdySLjPIwjWXxA-tSPftJTfaM8VsYfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718694861203-2emh4h9nfhnto4afvh390qnrvrem5c4m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718694861203-s1vugqm6v4ivrql5a2rabldv9h8ptt57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webiots.probotgpt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718694861203:android:a4b28004470038c0dd0066",
+        "android_client_info": {
+          "package_name": "com.www.nafciapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718694861203-2emh4h9nfhnto4afvh390qnrvrem5c4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAztdySLjPIwjWXxA-tSPftJTfaM8VsYfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718694861203-2emh4h9nfhnto4afvh390qnrvrem5c4m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718694861203-s1vugqm6v4ivrql5a2rabldv9h8ptt57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webiots.probotgpt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718694861203:android:cd70a380fc04317bdd0066",
+        "android_client_info": {
+          "package_name": "www.com.qoraa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718694861203-895a4v9ba3i9ccph78rn36gr7m1hsvun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.com.qoraa",
+            "certificate_hash": "eb44f506d8cc69c0b19a7a2d7da1ffdf9ac1ac54"
+          }
+        },
+        {
+          "client_id": "718694861203-2emh4h9nfhnto4afvh390qnrvrem5c4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAztdySLjPIwjWXxA-tSPftJTfaM8VsYfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718694861203-2emh4h9nfhnto4afvh390qnrvrem5c4m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718694861203-s1vugqm6v4ivrql5a2rabldv9h8ptt57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webiots.probotgpt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
